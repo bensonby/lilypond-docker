@@ -2,8 +2,8 @@
 
 ## Basic Info
 
-- Lilypond 2.18.2
-- Ubuntu 16.04
+- Lilypond 2.22.1
+- Ubuntu 18.04
 - Chinese fonts installed
 
 ## Running it
